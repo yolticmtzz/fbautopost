@@ -14,8 +14,8 @@ Use the variable [imageFolderPath]()   to select file directory where is the ima
 
 Use the variable [nameImagesToPost]()  to select images to upload in the folder
 
+You need recent version of  [seleniumDriver]("https://chromedriver.chromium.org/downloads")  
  
-```
 
 ## Configuration
 
